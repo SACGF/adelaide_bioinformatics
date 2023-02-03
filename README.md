@@ -76,7 +76,8 @@ https://www.centreforcancerbiology.org.au/
 | Katherine Pillman | kapillman@gmail.com | [0000-0002-5869-889X](https://orcid.org/0000-0002-5869-889X) |  |
 | Luis Arriola-Martinez | luis.arriola-martinez@unisa.edu.au |  |  |
 | Mark Sorrell | mark.sorrell@mymail.unisa.edu.au |  |  |
+| Muneeza Maqsood | muneeza.maqsood@mymail.unisa.edu.au |  | student |
 | Nick Warnock | Nick.Warnock@unisa.edu.au | [0000-0003-3422-3184](https://orcid.org/0000-0003-3422-3184) |  |
 | Paul Wang | paul.wang@adelaide.edu.au | [0000-0003-4597-6616](https://orcid.org/0000-0003-4597-6616) |  |
 | Thuong Thi Ha | thuong.ha@adelaide.edu.au | [0000-0002-4408-2613](https://orcid.org/0000-0002-4408-2613) |  |
-| Muneeza Maqsood | muneeza.maqsood@mymail.unisa.edu.au |  | student |
+
