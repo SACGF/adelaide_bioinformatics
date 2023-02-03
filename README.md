@@ -1,9 +1,9 @@
-[Black Ochre Data Labs](#Black Ochre Data Labs)
-[Flinders University](#Flinders University)
-[SA Pathology / SA Health](#SA Pathology / SA Health)
-[SAHMRI](#SAHMRI)
-[The University of Adelaide](#The University of Adelaide)
-[University of South Australia / Centre For Cancer Biology](#University of South Australia / Centre For Cancer Biology)
+[Black Ochre Data Labs](#black-ochre-data-labs]
+[Flinders University](#flinders-university]
+[SA Pathology / SA Health](#sa-pathology-/-sa-health]
+[SAHMRI](#sahmri]
+[The University of Adelaide](#the-university-of-adelaide]
+[University of South Australia / Centre For Cancer Biology](#university-of-south-australia-/-centre-for-cancer-biology]
 
 # Black Ochre Data Labs
 
