@@ -21,12 +21,6 @@
 [University of South Australia / Centre For Cancer Biology](#university-of-south-australia--centre-for-cancer-biology)
 
 
-# 
-
-|  **Name**  |  **email**  |  **ORCID**  |  **student**  |
-|------------|-------------|-------------|---------------|
-| Person who wants out |  |  |  |
-
 # Adelaide/BODL
 
 |  **Name**  |  **email**  |  **ORCID**  |  **student**  |
