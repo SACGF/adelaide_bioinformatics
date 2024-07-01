@@ -93,7 +93,9 @@ https://www.sa-genomics.com.au
 |  **Name**  |  **email**  |  **ORCID**  |  **student**  |
 |------------|-------------|-------------|---------------|
 | Daniel Thomson | daniel.thomson@sahmri.com | [0009-0001-5369-710X](https://orcid.org/0009-0001-5369-710X) |  |
-| Paul Wang | paul.wang@adelaide.edu.au | [0000-0003-4597-6616](https://orcid.org/0000-0003-4597-6616) |  |
+| Cathal King | cathal.king@sahmri.com |  |  |
+| John Salamon | john.salamon@sahmri.com |  |   |
+| Paul Wang | paul.wang@sahmri.com | [0000-0003-4597-6616](https://orcid.org/0000-0003-4597-6616) |  |
 
 # South Australian Museum
 
